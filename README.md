@@ -6,9 +6,6 @@ This repository contains datasets and source codes for the paper "Amodal Intra-c
 
 [ArXiv](https://arxiv.org/abs/2303.06596)
 
-# Abstract
-
-
 # Citation
 If you find this useful in your work, please consider citing the following reference:
 ```
