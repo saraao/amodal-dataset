@@ -1,4 +1,4 @@
-# Amodal Intra-class Instance Segmentation: Synthetic Dataset and Benchmark [WACV 2024]
+# Amodal Intra-class Instance Segmentation: Synthetic Datasets and Benchmark [WACV 2024]
 
 Jiayang Ao,  Qiuhong Ke, Krista A. Ehinger
 
