@@ -14,16 +14,11 @@ testing.</li>
 <li> <b> ACom</b>, an intra-class occlusion synthetic dataset containing 10 classes of other common object categories (anise, biscuit, bottle, candy, conch,
 donut, fire extinguisher, hammer, hat, and toothpaste), with 10,000 images for training and 2,500 images for
 testing. </li>
-<br>
-<img width="800" alt="Example Images" src="https://github.com/saraao/amodal-dataset/assets/39376629/4f1d72d4-7de1-44c8-a435-80ee4c83d6ff">
-<br>
-Overview of the proposed synthetic datasets. We build two challenging datasets of dense intra-class occlusion scenarios and provide detailed ground truth annotations of multiple types. The annotation format follows the COCO style.</center>
-<br>
+
 <br>
 We additionally created two datasets for testing purposes:
 <li> <b>InterAMix</b>, which considers occlusion scenes of multiple categories of objects by randomly picking instances among all categories.</li> 
 <li> <b> A real-world image dataset</b>, of intra-class occlusion scenes containing 102 images.</li>
-
 <br>
 <img width="800" alt="Example Images" src="https://github.com/saraao/amodal-dataset/assets/39376629/f3295032-d539-45d6-b96a-b3b7831298eb">
 
