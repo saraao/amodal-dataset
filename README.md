@@ -4,7 +4,7 @@ Jiayang Ao,  Qiuhong Ke, Krista A. Ehinger
 
 [ArXiv](https://arxiv.org/abs/2303.06596)&nbsp;&nbsp;&nbsp;&nbsp;[Datasets](https://forms.office.com/r/diADGWuLA5)
 
-# Introduction
+# Introduction of the Datasets
 This repository has released the datasets for the paper "Amodal Intra-class Instance Segmentation: Synthetic Dataset and Benchmark" (WACV 2024), which includes:
 <li> <b> Intra-AFruit</b>, an intra-class occlusion synthetic dataset containing 10 classes of fruits and vegetables, with 210,000 images for training and 45,000 images for
 testing.</li>
