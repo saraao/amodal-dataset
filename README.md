@@ -23,10 +23,11 @@ Example Images from our datasets: Intra-AFruit, InterAMix, ACom, and Real Images
 # Citation
 If you find this useful in your work, please consider citing the following reference:
 ```
-@article{ao2024amodal,
-  title={Amodal Intra-class Instance Segmentation: Synthetic Dataset and Benchmark},
+@inproceedings{ao2024amodal,
+  title={Amodal Intra-Class Instance Segmentation: Synthetic Datasets and Benchmark},
   author={Ao, Jiayang and Ke, Qiuhong and Ehinger, Krista A},
-  journal={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={281--290},
   year={2024}
 }
 ```
