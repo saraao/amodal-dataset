@@ -2,9 +2,9 @@
 
 Jiayang Ao,  Qiuhong Ke, Krista A. Ehinger
 
-This repository contains datasets and source codes for the paper "Amodal Intra-class Instance Segmentation: Synthetic Dataset and Benchmark" (WACV 2024). Coming soon!
+This repository contains datasets and source codes for the paper "Amodal Intra-class Instance Segmentation: Synthetic Dataset and Benchmark" (WACV 2024).
 
-[ArXiv](https://arxiv.org/abs/2303.06596)&nbsp;&nbsp;&nbsp;&nbsp;[Datasets]()
+[ArXiv](https://arxiv.org/abs/2303.06596)&nbsp;&nbsp;&nbsp;&nbsp;[Datasets](https://forms.office.com/r/diADGWuLA5)
 
 # Citation
 If you find this useful in your work, please consider citing the following reference:
