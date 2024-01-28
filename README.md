@@ -1,6 +1,6 @@
 # Amodal Intra-class Instance Segmentation: Synthetic Datasets and Benchmark [WACV 2024]
 
-Jiayang Ao,  Qiuhong Ke, Krista A. Ehinger
+[Jiayang Ao](https://scholar.google.com.au/citations?hl=en&user=Sq5U8MAAAAAJ),  Qiuhong Ke, Krista A. Ehinger
 
 [ArXiv](https://arxiv.org/abs/2303.06596)&nbsp;&nbsp;&nbsp;&nbsp;[Datasets](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jiayanga_student_unimelb_edu_au/EnJw4L6DwqtFs9URrdUKEuYBBsitZlqU-Vdd3H0fO55BWQ?e=dy8rNp)
 
